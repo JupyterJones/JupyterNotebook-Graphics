@@ -1,17 +1,12 @@
-
 NAME
     cv2
-
 FILE
     /home/jack/anaconda2/envs/py27/lib/python2.7/site-packages/cv2.so
-
 SUBMODULES
     cv
-
 CLASSES
     exceptions.Exception(exceptions.BaseException)
         error
-    
     class error(exceptions.Exception)
      |  Method resolution order:
      |      error
